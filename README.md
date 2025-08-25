@@ -4,7 +4,7 @@
 
 This project focuses on analyzing and predicting **employee attrition** using machine learning techniques. Employee attrition is a critical issue in human resources management, as high turnover leads to increased costs, knowledge loss, and reduced organizational performance.
 
-The repository provides **end-to-end workflows** — from data cleaning and exploratory data analysis (EDA) to model building, evaluation, and explainability — to identify the key factors driving attrition and to predict employees most at risk of leaving.
+The repository provides **end-to-end workflows** from data cleaning and exploratory data analysis (EDA) to model building, evaluation, and explainability to identify the key factors driving attrition and to predict employees most at risk of leaving.
 
 ---
 
